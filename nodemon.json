@@ -1,0 +1,8 @@
+{
+    "verbose":true,
+    "ignore":["./client"],
+    "expecMap": {
+        "rb":"ruby",
+        "pde":"processing --sketch={{}pwd} --run"
+    }
+}
